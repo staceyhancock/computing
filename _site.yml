@@ -1,0 +1,13 @@
+name: "staceyhancock"
+output_dir: "."
+navbar:
+  title: "Resources for Learning and Teaching Statistical Computing"
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<stacey.hancock@montana.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/staceyhancock/
+output:
+  html_document:
+    theme: flatly
+    css: 'styles.css'
