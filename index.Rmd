@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Resources for Learning and Teaching Statistical Computing"
+author: "Stacey Hancock"
 output: 
     html_document:
         toc: TRUE

@@ -1,7 +1,7 @@
 name: "staceyhancock"
 output_dir: "."
 navbar:
-  title: "Resources for Learning and Teaching Statistical Computing"
+  title: "Statistical Computing Resources"
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<stacey.hancock@montana.edu>
