@@ -46,6 +46,7 @@ Image source: [xkcd.com/1513/](https://xkcd.com/1513/)
 * [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) - book by Yihui Xie, Christophe Dervieux, Emily Riederer
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/) - Tutorial
 * [knitr](https://yihui.org/knitr/) - includes an exhaustive list of R chunk options
+* [R Markdown reference guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf) - your one-stop shop!
 * [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/) - a list of tips I use on a regular basis
 
 
@@ -80,6 +81,7 @@ Image source: [xkcd.com/1513/](https://xkcd.com/1513/)
 ### *References*
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html) - book by Jenny Bryan
 * [GitHub Docs](https://docs.github.com/en) - GitHub's own help documentation is incredibly useful
+* [Pro Git](https://git-scm.com/book/en/v2) - online book on everything you'd every want to know about Git
 * Udacity's free course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 * Software Carpentry's [Version Control with Git](http://swcarpentry.github.io/git-novice/) tutorial
 
