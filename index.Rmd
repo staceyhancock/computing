@@ -78,6 +78,7 @@ Image source: [xkcd.com/1513/](https://xkcd.com/1513/)
 
 ### *References*
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html) - book by Jenny Bryan
+* [GitHub Docs](https://docs.github.com/en) - GitHub's own help documentation is incredibly useful
 * Udacity's free course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 * Software Carpentry's [Version Control with Git](http://swcarpentry.github.io/git-novice/) tutorial
 
