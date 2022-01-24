@@ -57,6 +57,12 @@ Image source: [xkcd.com/1513/](https://xkcd.com/1513/)
 * [R Markdown: Websites](https://garrettgman.github.io/rmarkdown/rmarkdown_websites.html)
 
 
+#### Creating Presentations in R
+* [Presentations with Beamer from R Markdown](https://garrettgman.github.io/rmarkdown/beamer_presentation_format.html)
+* [Beamer Tips slides](https://paulgp.github.io/beamer_tips.pdf) by Paul Goldsmith-Pinkham and the [source code](https://github.com/paulgp/beamer-tips) to see how they were created 
+* [Chapter 4](https://bookdown.org/yihui/rmarkdown/presentations.html) of _R Markdown: The Definitive Guide_ on creating presentations
+    - Includes link to [beamer theme matrix](https://hartwork.org/beamer-theme-matrix/)
+
 #### Data Visualization
 
 * [A ggplot2 tutorial for beautiful plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) - tutorial
