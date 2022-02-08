@@ -62,6 +62,7 @@ Image source: [xkcd.com/1513/](https://xkcd.com/1513/)
 * [Beamer Tips slides](https://paulgp.github.io/beamer_tips.pdf) by Paul Goldsmith-Pinkham and the [source code](https://github.com/paulgp/beamer-tips) to see how they were created 
 * [Chapter 4](https://bookdown.org/yihui/rmarkdown/presentations.html) of _R Markdown: The Definitive Guide_ on creating presentations
     - Includes link to [beamer theme matrix](https://hartwork.org/beamer-theme-matrix/)
+* [Mastering R presentations](https://www.r-bloggers.com/2019/09/mastering-r-presentations/)
 
 #### Data Visualization
 
