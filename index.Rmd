@@ -67,7 +67,10 @@ Image source: [xkcd.com/1513/](https://xkcd.com/1513/)
 #### Data Visualization
 
 * [A ggplot2 tutorial for beautiful plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) - tutorial
+* [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) - book by Hadley Wickham, author of the ggplot2 R package
 * [R Graphics Cookbook](https://r-graphics.org/index.html) - book by Winston Chang
+    - [Abbreviated list of graphs](http://www.cookbook-r.com/Graphs/)
+* [Graphical Data Analysis with R](http://www.gradaanwr.net/) - book by Antony Unwin
 
 #### Cheatsheets
 * [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - scroll to the bottom to see contributed cheatsheets
